@@ -33,7 +33,7 @@ three nested loops. I thought this to be too long
 to compute for a typical Project Euler problem. 
 
 Unfortunately, RSA unconcealed messages were
-not covered in my cryptography textbook, and
+not covered in my cryptography textbook, but
 further research led me to these resources:
 
 - Recent Advances in RSA Cryptography by Stefan Katzenbeisser (p. 69)
